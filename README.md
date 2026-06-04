@@ -13,9 +13,6 @@ This project analyzes transactional data from 3,900 customer purchases using **P
 
 
 * **Power BI:** Built an interactive dashboard tracking KPIs like average purchase amount ($59.76) and rating (3.75).
-
-
-
 ## 📈 Key Findings
 
 * **Gender & Age:** Male customers drove higher total revenue than females ($157.890 vs $75,191), with Young Adults being the highest-earning age group.
