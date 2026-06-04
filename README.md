@@ -4,7 +4,7 @@ This project analyzes transactional data from 3,900 customer purchases using **P
 
 *For the complete detailed methodology, data cleaning steps, and full query outputs, refer to the **Customer Shopping Behavior Analysis.pdf**.*
 
-## 📊 Project Overview & Stack
+# 📊 Project Overview & Stack
 
 * **Python (pandas):** Cleaned data, handled 37 missing ratings, and standardized columns.
 
